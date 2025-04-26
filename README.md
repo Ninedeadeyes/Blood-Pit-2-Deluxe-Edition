@@ -29,3 +29,9 @@ Check out my other games at
 
 https://ninedeadeyes.github.io/JavaScript-Mini-Arcade/
 
+Special thanks to Stephen J. Wolf (Author)
+
+as original game was based on one of this projects  ( project below ) 
+
+https://coding.stephenjwolf.com/cfk2/macode/battlesinkallisor/kallisor.html
+
